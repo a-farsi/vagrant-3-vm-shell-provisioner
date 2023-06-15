@@ -57,3 +57,11 @@ We test our solution on inta web browser to see that for each http request a web
 <img src="figures/running-app-on-browser.gif" width=80%>
 </p>
 <p align="center"> Test the application on web browser </p>
+
+Usualy, when finishing with our VMs, we should stop and destroy them using : 
+```
+vagrant halt
+```
+```
+vagrant destroy -f
+```
