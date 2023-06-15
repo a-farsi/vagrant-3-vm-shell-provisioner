@@ -58,7 +58,7 @@ We test our solution on inta web browser to see that for each http request a web
 </p>
 <p align="center"> Test the application on web browser </p>
 
-Usualy, when finishing with our VMs, we should stop and destroy them using : 
+Usually, when we have finished with our VMs, we should stop and destroy them using :
 ```
 vagrant halt
 ```
