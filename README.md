@@ -12,7 +12,7 @@ Our solution consists on :
 <p align="center">
 <img src="figures/architecture.png" width=65%>
 </p>
-<p align="center"> Architecture </p>
+<p align="center"> Simple Architecture Solution </p>
 
 To deploy quickely these 3 virtual machines (VMs), we can use the vagrant tool that allows us to instanciate them in a couple of minutes by using a simple vagrant file.
 
@@ -56,4 +56,4 @@ To test our solution on internet browser, we can see that for each http request 
 <p align="center">
 <img src="figures/running-app-on-browser.gif" width=80%>
 </p>
-<p align="center"> Architecture </p>
+<p align="center"> Test the application on web browser </p>
