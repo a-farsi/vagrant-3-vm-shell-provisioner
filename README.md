@@ -41,7 +41,7 @@ We complete this template to define the configuration of each virtual machine by
 - provisionning the VM with a shell script from a specific URL
 - setting the memory and CPU configuration when defining the used provider (virtualbox in this case)
 
-To validate the Vagrantfile, we run : 
+To validate this Vagrantfile, we run : 
 ```
 vagrant validate
 ``` 
@@ -51,7 +51,7 @@ To provision the VMs defined in the Vagrantfile run the command:
 vagrant up
 ```
 
-To test our solution on internet browser, we can see that for each http request a web application is selected alternatively.
+We test our solution on inta web browser to see that for each http request a web application is selected alternatively.
 
 <p align="center">
 <img src="figures/running-app-on-browser.gif" width=80%>
